@@ -32,7 +32,7 @@ You need Python 3 installed on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/zrnge/ease-db.git](https://github.com/zrnge/ease-db.git)
+    git clone https://github.com/zrnge/ease-db.git
     cd ease-db
     ```
 
@@ -44,9 +44,9 @@ You need Python 3 installed on your system.
 
 3.  **Run the Application:**
     ```bash
-    python ease_db_main.py # Assuming you name the main file ease_db_main.py
+    python ease_db.py # Assuming you name the main file ease_db.py
     ```
-    *(Note: If you saved the main Python code file with a different name, use that name instead of `ease_db_main.py`.)*
+    *(Note: If you saved the main Python code file with a different name, use that name instead of `ease_db.py`.)*
 
 ---
 
