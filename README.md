@@ -5,7 +5,7 @@
 ![webbrowser](https://img.shields.io/badge/Required-webbrowser-red)
 
 Ease-DB is an **open-source**, user-friendly SQLite database editor built using Python and Tkinter. It provides essential CRUD (Create, Read, Update, Delete) functionality through a simple graphical interface, making SQLite database management accessible and efficient for developers and enthusiasts.
-
+![Below is a picture of the Ease-DB.](https://github.com/zrnge/ease-db/blob/main/Ease-DB.png)
 ---
 
 ## ✨ Features
