@@ -1,4 +1,5 @@
 # 💾 Ease-DB: Lightweight SQLite Editor
+![py version](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![tkinter](https://img.shields.io/badge/Required-tkinter-red)
 ![sqlite3](https://img.shields.io/badge/Required-sqlite3-red)
 ![webbrowser](https://img.shields.io/badge/Required-webbrowser-red)
